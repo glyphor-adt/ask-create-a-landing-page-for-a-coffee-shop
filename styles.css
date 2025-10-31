@@ -1,0 +1,27 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.bg-brown-900 {
+  background-color: #3E2723;
+}
+
+.bg-brown-700 {
+  background-color: #4E342E;
+}
+
+.hover\:bg-brown-800:hover {
+  background-color: #5D4037;
+}
+
+.focus\:ring-brown-600:focus {
+  ring-color: #6D4C41;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
